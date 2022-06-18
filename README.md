@@ -4,3 +4,4 @@ A simple Android app to store Whatsapp Status Images and Videos locally before i
 
 We access the Whatsapp statuses from device from directory  /storage/emulated/0/WhatsApp/Media/.Statuses .
 
+TESTING
